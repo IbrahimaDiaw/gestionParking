@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet Gestion Parking", "Projet Gestion Parking\Projet Gestion Parking.csproj", "{AB064672-F69B-427A-90A2-AC08CEDB3106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB064672-F69B-427A-90A2-AC08CEDB3106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB064672-F69B-427A-90A2-AC08CEDB3106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB064672-F69B-427A-90A2-AC08CEDB3106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB064672-F69B-427A-90A2-AC08CEDB3106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
